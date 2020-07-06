@@ -7,3 +7,4 @@
  */
 
 debug_backtrace();
+yaml_emit();
