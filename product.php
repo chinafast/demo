@@ -7,3 +7,4 @@
  */
 sapi_windows_cp_conv();
 sapi_windows_cp_conv();
+libxml_clear_errors();
