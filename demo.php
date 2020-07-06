@@ -7,6 +7,3 @@
  */
 
 debug_backtrace();
-yaml_emit();
-yaml_parse_file();xx;
-yaml_parse_file();xx;
